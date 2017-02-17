@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-style: italic;
+  background-color:#ff4725;
+}
+h1{
+  margin-left: 600px;
+  color:red;
+}
+.one{
+  font-size: 20px;
+  color: slategray;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 30px;
+  margin-left: 550px;
+}
+.two{
+  font-size: 20px;
+  color: slategray;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 30px;
+  margin-left: 20px;
+}
+
+button{
+  height: 30px;
+  font-size: 20px;
+  color: slategray;
+  margin: 20px auto; 
+  margin-left: 600px; 
+
+}
+button:hover{
+  background-color: grey;
+}
+li{
+  color: slategray;
+  font-size: 20px;
+}
+
+.msg{
+  float: right;
+   margin-right: 400px;
+   
+}
